@@ -14,10 +14,10 @@ Bienvenue sur le projet du site web d'un restaurant réalisé en React. Ce proje
 
 - **React :** Le projet est développé en utilisant la bibliothèque React pour la création d'interfaces utilisateur dynamiques.
 npm create react-app my_app
-- **Java script:**Le langage JavaScript est utilisé pour la logique côté client et l'interaction dynamique sur le site.
+- **Java script:** Le langage JavaScript est utilisé pour la logique côté client et l'interaction dynamique sur le site.
 Et aussi pour le server pour connecter le back et le front dans le dossier server.js
 - **Css:**
-- **Bootstrap:**npm install react-bootstrap booptstrap
+- **Bootstrap:** npm install react-bootstrap booptstrap
 
 ## Le lancement du projet 
 Pour lancer le projet faut installer les dépendances avec la commandes "npm install react" et aprés il suffit juste de tapper "npm start" et on aura le site en local
